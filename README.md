@@ -9,7 +9,7 @@ My _index.js_ file is a website welcoming you on my server.
 - First, you need to clone the repository using the command : **git clone**
 - Then, you can run _index.js_ using this command : **npm run script**
 - Afterwards, **you enter your name in the Git Bash** (it's not necessary but if you want your name to be displayed, you can do it).
-- You open your browser and search "**localhost:3000**" [**(you can also click here)**](localhost:3000)
+- You open your browser and search "**localhost:3000**" [you can also click here](localhost:3000).
 
 # Name of our Project : **_BattleShip Wars_**
 Our project consists in a simple battleship. In our game, there will be a login page and a shop using a data base.
